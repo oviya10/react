@@ -1,0 +1,49 @@
+/* Add this CSS to your existing style block or create a new CSS file */
+
+/* Style for the navigation buttons */
+.btn-group {
+    margin: 20px;
+  }
+  
+  /* Style for the page title */
+  h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  
+  /* Background image for the body */
+  body {
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  /* Style for the table and its headers */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th {
+    background-color:rgb(127, 147, 50);;
+    color: cornsilk;
+  }
+  
+  /* Style for table rows and cells */
+  td {
+    height: 80px;
+    text-align: center;
+  }
+  
+  /* Style for the "Book Ticket" buttons */
+  .btn-primary {
+    width: 150px;
+  }
+  
+  /* Style for the container */
+  .container {
+    margin: 20px;
+  }
+  

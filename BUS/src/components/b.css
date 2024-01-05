@@ -1,0 +1,137 @@
+.reg {
+  border-collapse: separate;
+  border-spacing: 0 25px;
+  border-width: 100px;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(46, 8, 8);
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  margin-left: 60px;
+  margin-bottom: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background-color: #4caf50;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {
+  background-color: #3e8e41;
+}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.container {
+  margin: 20px;
+}
+.button-seat {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  margin: 5px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background-color: #4caf50;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+}
+
+.button-seat:hover {
+  background-color: #3e8e41;
+}
+
+.button-seat:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+body {
+  background-color:white;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+ }
+ 
+ .container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+ }
+ 
+ .reg {
+  font-size: 14px;
+  width: 100%;
+ 
+ }
+ body {
+  background-color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+ }
+ 
+ .container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+ }
+ 
+ .reg {
+  background-color: #C3E2C2;
+  font-size: 14px;
+  width: 100%;
+  border-collapse: collapse;
+ }
+
+ .form-control {
+  
+  border-radius: 4px;
+  padding: 5%;
+  width: 100%;
+ }
+ 
+ .button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-right: 10px;
+ }
+ 
+ .button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-right: 10px;
+ }
+ .gender {
+  padding: 30px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+ }

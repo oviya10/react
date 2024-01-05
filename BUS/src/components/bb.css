@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.weather-app {
+    background-color: #6d6f92;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.weather-app h1 {
+    margin-bottom: 10px;
+}
+
+.action-buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.action-buttons button {
+    background-color: #a4768d;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.action-buttons button:hover {
+    background-color: #9f6590;
+}
+
+.booking-form {
+    background-color: #f8f9fa;
+    color: #212529;
+    margin: 20px;
+    padding: 20px;
+    width: 30%;
+    margin-left: 500px;
+    margin-top: 170px;
+    
+}
+
+.booking-form h2 {
+    margin-bottom: 20px;
+}
+
+.booking-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.booking-form input {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.booking-form button {
+    background-color: #a1638c;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.booking-form button:hover {
+    background-color: #0a0b0d;
+}
+.booking-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
